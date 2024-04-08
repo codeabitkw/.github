@@ -1,1 +1,1 @@
-# .github
+github's config files
